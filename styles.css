@@ -1,0 +1,38 @@
+.first{
+    display: flex;
+    justify-content: space-between;
+    width: 1550px;
+height: 800px;
+flex-shrink: 0;
+background: rgba(229, 84, 115, 0.10);
+padding: 150px 120px 00px 250px;
+}
+.one{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+
+font-weight: 800;
+font-family: 'Open Sans', sans-serif;
+
+}
+.top{
+    display: flex;
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding-right:  160p ;
+}
+.btn{
+    color: aliceblue;
+    background-color: chocolate;
+    border: 0px;
+    padding: 20px 30px;
+    border-radius: 7px;
+}
+.second{
+    padding-right: 20px;
+}
