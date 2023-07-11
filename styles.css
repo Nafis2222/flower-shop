@@ -38,16 +38,19 @@ width: 700px;
 .second{
     padding-right: 20px;
 }
-.on{
-    
+.sua{
     text-align: center;
-    font-family: 'Open Sans', sans-serif;
+}
+.on{
     color: #272727;
 font-family: Lato;
 font-size: 40px;
-padding-top: 120px;
 
 font-weight: 800;
+font-family: 'Open Sans', sans-serif;
+width: 750px;
+padding-left: 420px;
+
 }
 .topi{
     text-align: center;
@@ -104,7 +107,38 @@ font-size: 20px;
 padding:  10px;
 
 }
-.sumi{
-    padding-left: 190px;
-    padding-right: 0px;
+
+.tom{
+    text-align: center;
+    padding-top: 200px;
+}
+span{
+    color: chocolate;
+}
+.kut{
+    width: 318px;
+    height: 420px;
+    flex-shrink: 0;
+    padding: 100px 230px 0px 0px;
+
+}
+.jerry{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+width: 1900px;
+height: 600px;
+
+}
+.no{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif;
+    width: 750px;
+    padding-left: 310px;
+    
 }
