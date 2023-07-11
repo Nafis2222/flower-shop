@@ -38,3 +38,73 @@ width: 700px;
 .second{
     padding-right: 20px;
 }
+.on{
+    
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+padding-top: 120px;
+
+font-weight: 800;
+}
+.topi{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+
+font-family: Lato;
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
+padding: 0px 300px;
+padding-bottom: 10px;
+
+}
+.png{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 420px;
+height: 608px;
+flex-shrink: 0;
+text-align: center;
+padding-right: 5px;
+}
+.oe{
+    background: rgb(199, 241, 243);
+    border-radius: 300px 300px 0px 0px;
+    width: 420px;
+height: 608px;
+flex-shrink: 0;
+
+}
+.con{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(60, 76, 45, 0.15);
+width: 420px;
+height: 608px;
+flex-shrink: 0;
+
+}
+.two{
+    
+    justify-content: space-around;
+
+display: flex;
+padding: opx;
+
+}
+.adib{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #272727;
+font-family: Lato;
+font-size: 20px;
+padding:  10px;
+
+}
+.sumi{
+    padding-left: 190px;
+    padding-right: 0px;
+}
